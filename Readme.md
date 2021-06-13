@@ -1,4 +1,4 @@
-Dojo Dodge v1
+Dojo Dodge v2
 lista de caracteristicas
 caracteristica1
 caracteristica2
